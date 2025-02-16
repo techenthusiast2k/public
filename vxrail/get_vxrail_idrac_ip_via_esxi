@@ -1,3 +1,6 @@
-#ssh into esxi
+#ssh into esxi via ip/fqdn
+ssh user@ip
+#localcli
 localcli hardware ipmi bmc get
+#esxcli
 esxcli hardware ipmi bmc get
