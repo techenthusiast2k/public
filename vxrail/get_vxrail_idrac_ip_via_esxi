@@ -1,0 +1,3 @@
+#ssh into esxi
+localcli hardware ipmi bmc get
+esxcli hardware ipmi bmc get
